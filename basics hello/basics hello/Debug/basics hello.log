@@ -1,0 +1,6 @@
+﻿  hello.c
+c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(61): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(36): warning C4305: 'initializing': truncation from 'long double' to 'const float'
+c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(15): warning C4101: 'a': unreferenced local variable
+loops.obj : error LNK2005: _main already defined in hello.obj
+C:\Users\CJ\Desktop\c snippets\basics hello\Debug\basics hello.exe : fatal error LNK1169: one or more multiply defined symbols found

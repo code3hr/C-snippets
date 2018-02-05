@@ -1,0 +1,15 @@
+﻿  hello.c
+c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(25): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '::size_t'
+  c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(11): note: consider using '%zd' in the format string
+c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '::size_t'
+  c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(12): note: consider using '%zd' in the format string
+c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '::size_t'
+  c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(13): note: consider using '%zd' in the format string
+c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(18): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '::size_t'
+  c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(18): note: consider using '%zd' in the format string
+c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(19): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '::size_t'
+  c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(19): note: consider using '%zd' in the format string
+c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '::size_t'
+  c:\users\cj\desktop\c snippets\basics hello\basics hello\hello.c(20): note: consider using '%zd' in the format string
+  basics hello.vcxproj -> C:\Users\CJ\Desktop\c snippets\basics hello\x64\Debug\basics hello.exe
